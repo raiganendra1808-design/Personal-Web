@@ -410,8 +410,8 @@ body::after {
 /* PROFILE PHOTO */
 /* ===================== */
 .profile-photo {
-  width: 200x;
-  height: 210px;
+  width: 220x;
+  height: 240px;
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 22px;
