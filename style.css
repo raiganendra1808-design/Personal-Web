@@ -569,3 +569,14 @@ body::after {
 body {
   overflow-y: auto;
 }
+@keyframes smoothFloat {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-14px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
